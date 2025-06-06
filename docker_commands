@@ -1,0 +1,2 @@
+docker build -t yourusername/ace-step-inference:latest .
+docker push yourusername/ace-step-inference:latest
